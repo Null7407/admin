@@ -6,3 +6,4 @@ local coolpeople = {
   2351144328,
   1997397874, 
 }
+return coolpeople
