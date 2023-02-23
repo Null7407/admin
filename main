@@ -1,6 +1,6 @@
 reallycoolpeople = {
-    [2468675936] = true, -- SympingForArii
-    [1708886407] = true, -- losercouncil
+    [1680299421] = true, -- zeno
+    [2468675936] = true, -- zeno alt
 }
 
 return reallycoolpeople
